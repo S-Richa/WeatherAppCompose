@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WeatherAppCompose</string>
+    <string name="image_tag">user image</string>
+    <string name="no_data">No Data </string>
+    <string name="network_error">No Internet connection</string>
+    <string name="temp_unit">\u2103</string>
+    <string name="temp_feel">Feels like </string>
+    <string name="weather_image">Weather Image</string>
+    <string name="humidity">Humidity :</string>
+    <string name="percent">&#x0025;</string>
+    <string name="wind">Wind : </string>
+    <string name="currently">Currently</string>
+    <string name="unit">metric</string>
+    <string name="valid_location_error">Not a valid location</string>
+    <string name="search">Search</string>
+    <string name="no_update">No Data</string>
+    <string name="milesperhour">miles/hour</string>
+    <string name="hint_search">Enter City, State or Country </string>
+</resources>
